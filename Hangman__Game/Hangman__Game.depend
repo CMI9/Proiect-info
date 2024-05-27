@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1716837438 source:c:\users\thinkpad l540\desktop\cionca isabella\hangman__game\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<vector>
+	"RandomWord.h"
+
+1716834099 c:\users\thinkpad l540\desktop\cionca isabella\hangman__game\randomword.h
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<iostream>
+
