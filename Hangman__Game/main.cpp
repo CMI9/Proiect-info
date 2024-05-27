@@ -113,7 +113,7 @@ void play() {
         {
             try_nr++;
         }
-        if (try_nr     >= 6) {
+        if (try_nr >= 6) {
             cout << hangman_art[try_nr] << "\n";
             cout << guess_word << "\n";
             cout << "Ai pierdut! Cuvantul era: " << cuvant << "\n";
